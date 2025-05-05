@@ -84,3 +84,6 @@ The code is modular, organized into classes representing different roles and fun
     -   Develop a mobile version for better accessibility.
 4.  **Real-Time Voting Statistics**:
     -   Display live updates of voting trends during the election period.
+
+
+#Author: Arman Sayyed
